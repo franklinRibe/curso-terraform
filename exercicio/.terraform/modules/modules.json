@@ -1,1 +1,0 @@
-{"Modules":[{"Key":"create_vpc","Source":"./gcp-network","Dir":"gcp-network"},{"Key":"instancia-rh","Source":"./gcp-instance","Dir":"gcp-instance"},{"Key":"","Source":"","Dir":"."},{"Key":"instancia-adm","Source":"./gcp-instance","Dir":"gcp-instance"},{"Key":"instancia-ti","Source":"./gcp-instance","Dir":"gcp-instance"}]}
